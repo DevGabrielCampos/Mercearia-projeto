@@ -1,2 +1,2 @@
 # Mercearia-projeto
-Aqui ver teruma descrição
+Aqui ver ter uma descrição
